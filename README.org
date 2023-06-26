@@ -1,0 +1,9 @@
+* About
+There exists no open source loan approval system that is not just a simple SVD/Logit/NMF system. So in this project, we propose a open source loan approval system that takes advantage of the LLM models to consider current economic environment when making decision regarding loan approval.
+
+* Tasks 
+- [ ] Clone dataset 
+- [ ] Load dataset 
+- [ ] Perform EDA 
+- [ ] Try SVD Model 
+- [ ] Try other models
