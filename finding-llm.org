@@ -1,0 +1,13 @@
+* finBERT
+
+It gives positive, neutral or negative sentiment. It picks "approve" as slightly positive and "dont approve" as slightly negative. It predicts neutral with 90% certainty most of the time.
+* Tests
+#+begin_src text
+	  Mr X took a loan of $1000 in 2021. He has not paid it yet. He took another loan of $200 in 2022. He paid the loan of $200 in 2023. Now he is asking for a loan of $5000. Shoul I lend him?
+#+end_src
+
+* Working ML 
+https://www.kaggle.com/code/abjpaul/loan-eligibility-prediction-machine-learning/edit
+https://medium.com/swlh/loan-approval-using-machine-learning-algorithm-1a2bc2f61af9
+* Transfer Learning with BERT
+https://github.com/ProsusAI/finBERT/blob/master/notebooks/finbert_training.ipynb
